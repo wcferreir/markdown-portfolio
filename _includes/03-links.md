@@ -1,1 +1,1 @@
-[Very safe website] (http://www.google.com)
+[Very safe website](http://www.google.com)
