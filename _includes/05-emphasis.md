@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I AM REALLY GOOD AT THIS STUFF IT'S BASED AND YEAH**
+_butsometimes it hurts me to say I like peaNUT butter_
